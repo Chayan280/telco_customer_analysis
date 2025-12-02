@@ -11,7 +11,7 @@ Total Charges: 16.06M — cumulative revenue from all customers.
 
 <a href= "https://github.com/Chayan280/telco_customer_analysis/blob/main/Telco_Customer_Churn_Dataset%20%20(2).csv"> Datafile </a>
 
-##Dashboard
+## Dashboard
 
 <a href= "https://github.com/Chayan280/telco_customer_analysis/blob/main/Screenshot%202025-12-02%20204210.png"> Dashboard </a>
 
