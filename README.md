@@ -9,13 +9,13 @@ Total Charges: 16.06M — cumulative revenue from all customers.
 
 ## DataFile
 
-<a href= ""> Datafile </a>
+<a href= "https://github.com/Chayan280/telco_customer_analysis/blob/main/Telco_Customer_Churn_Dataset%20%20(2).csv"> Datafile </a>
 
 ##Dashboard
 
-<a href= ""> Dashboard </a>
+<a href= "https://github.com/Chayan280/telco_customer_analysis/blob/main/Screenshot%202025-12-02%20204210.png"> Dashboard </a>
 
-##Customer Demographics & Behavior
+## Customer Demographics & Behavior
 
 3️⃣ Phone Service Count by Gender
 Male: 49.52%, Female: 50.48%
@@ -24,14 +24,14 @@ Gender distribution is almost equal, meaning no gender-based service preference.
 Electronic checks have the highest number of customers, but also the highest churn, making it a risky segment.
 All payment types show similar gender distribution — no major gender influence observed.
 
-##Customers by Internet Service Type & Contract
+## Customers by Internet Service Type & Contract
 
 Fiber Optic customers are the highest, but they also show higher churn, especially among:
 Month-to-month contracts, which have the highest churn across all service types.
 Two-year contracts have the lowest churn, showing:
 Long-term contracts = higher loyalty & stable revenue.
 
-##Business Insights & Recommendations
+## Business Insights & Recommendations
 
 ✔ Reduce Churn in High-Risk Segments
 Target Electronic Check customers with offers to shift to automatic payment methods.
@@ -50,7 +50,7 @@ Provide special retention plans for fiber users.
 ✔ Promote Long-Term Contracts
 Offer incentives for upgrading from month-to-month to 1-year / 2-year contracts.
 
-##Conclusion
+## Conclusion
 
 The analysis clearly highlights that customer churn is heavily influenced by payment method, contract length, and tenure.
 Customers using Electronic Check and those on Month-to-Month contracts are most likely to churn.
